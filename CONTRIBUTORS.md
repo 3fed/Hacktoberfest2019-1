@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Oleg Thorin
+- Photo: https://avatars1.githubusercontent.com/u/32990078?s=460&v=4
+- Location: Minsk, BY
+- Bio: 📱 iOS Dev
+- Github: https://github.com/3fed
